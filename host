@@ -1,0 +1,160 @@
+# I siti che per più di un anno non abbiano pubblicato bufale o fatto disinformazione potranno essere rimossi come forma di incentivo positivo e critico,
+# mentre le finte testate giornalistiche rimarranno dentro.
+# Aspettiamo come sempre un vostro riscontro in merito, per poter di conseguenza migliorare il nostro servizio.
+# 
+# Lista by mac89 sorgente https://www.bufale.net/the-black-list-la-lista-nera-del-web/
+#
+#=====================================
+
+0.0.0.0 http://notiziepericolose.blogspot.it/
+0.0.0.0 http://www.ilmattoquotidiano.it/
+0.0.0.0 http://www.ilmessaggio.it/
+0.0.0.0 http://www.ilfattoquotidaino.it/
+0.0.0.0 https://ilquotidaino.wordpress.com/
+0.0.0.0 http://www.liberogiornale.com/
+0.0.0.0 https://notiziariosegreto.wordpress.com/
+0.0.0.0 http://secretnews.fr/
+0.0.0.0 http://secretnews.fr/
+0.0.0.0 http://superbamente.com/
+0.0.0.0 http://worldnewsdailyreport.com/
+0.0.0.0 https://www.fonteverificata.it/
+
+#Siti di bufale e disinformazione medica e scientifica
+
+0.0.0.0 http://www.dionidream.com/
+0.0.0.0 http://lastella.altervista.org/
+0.0.0.0 http://www.segnidalcielo.it/
+0.0.0.0 https://pianetablunews.wordpress.com/
+0.0.0.0 http://saltoquantico.org/
+0.0.0.0 https://autismovaccini.org/
+0.0.0.0 http://www.jedanews.it/blog/
+0.0.0.0 https://www.naturalnews.com/
+0.0.0.0 http://www.notiziespericolate.com/
+0.0.0.0 https://viaggialowcost.altervista.org/
+0.0.0.0 https://sadefenza.blogspot.com/
+0.0.0.0 https://www.renovatio21.com/
+
+#Siti di disinformazione politica
+
+0.0.0.0 http://devinformarti.blogspot.it/   # Devinformarti
+0.0.0.0 http://www.imolaoggi.it/   # ImolaOggi
+0.0.0.0 https://scenarieconomici.it/   # Scenari Economici
+0.0.0.0 https://voxnews.info/   # Voxnews
+0.0.0.0 http://www.informarexresistere.fr/   # Informare X Resistere
+0.0.0.0 http://www.jedanews.it/blog/   # Jeda News
+0.0.0.0 http://www.breaknotizie.com/   # BreakNotizie
+0.0.0.0 http://www.direttanews24.com/   # DirettaNews24
+0.0.0.0 http://www.fascinazione.info/   # FascinAzione
+0.0.0.0 http://www.notiziespericolate.com/   # Notizie Spericolate
+0.0.0.0 http://tg5stelle.it/   # TG5Stelle
+0.0.0.0 http://blogopenyoureyes.altervista.org/   # Open Your Eyes
+0.0.0.0 http://ilbazarinformazione.blogspot.it/   # Il Bazaar Informazione
+0.0.0.0 http://informare.over-blog.it/   # Informare
+0.0.0.0 http://notizieinmovimentonews.blogspot.it/   # Notizie in Movimento
+0.0.0.0 https://www.tg24-ore.com   # Notizie 24 Ore
+0.0.0.0 https://sadefenza.blogspot.com   # Sa Defenza
+0.0.0.0 https://informaresenzacensure.blogspot.com   # Informare Senza Censure
+0.0.0.0 http://www.byoblu.com   # ByoBlu
+0.0.0.0 https://www.mag24.es   # Mag24
+
+# Siti di disinformazione a sfondo religioso e/o razziale
+
+0.0.0.0 https://voxnews.info/   # Voxnews
+0.0.0.0 http://www.imolaoggi.it/   # ImolaOggi
+0.0.0.0 http://ilbazarinformazione.blogspot.it/   # Il Bazaar Informazione
+0.0.0.0 https://www.tg24-ore.com   # Notizie 24 Ore
+0.0.0.0 https://sadefenza.blogspot.com   # Sa Defenza
+
+# Siti di bufale scandalistiche
+
+0.0.0.0 http://devinformarti.blogspot.it/   # Devinformarti
+0.0.0.0 http://www.iocritico.com/   # Io critico
+0.0.0.0 https://scenarieconomici.it/   # Scenari Economici
+0.0.0.0 http://www.sostenitori.info/   # Sostenitori delle Forze dell'Ordine
+0.0.0.0 http://irresponsabile.com/   # L'irresponsabile
+0.0.0.0 http://www.notiziespericolate.com/   # Notizie Spericolate
+0.0.0.0 http://aidaa-animaliambiente.blogspot.it/   # AnimaliAmbiente
+0.0.0.0 http://ilbazarinformazione.blogspot.it/   # Il Bazaar Informazione
+0.0.0.0 http://thuglifevideos.com   # Thug Life Videos
+0.0.0.0 http://yournewswire.com   # Your News Wire
+0.0.0.0 https://www.tg24-ore.com   # Notizie 24 Ore
+0.0.0.0 https://viaggialowcost.altervista.org   # Viaggia Low Cost
+0.0.0.0 https://sadefenza.blogspot.com   # Sa Defenza
+0.0.0.0 https://www.maurizioblondet.it   # Maurizio Blondet
+0.0.0.0 https://informaresenzacensure.blogspot.com   # Informare Senza Censure
+0.0.0.0 https://www.mag24.es   # Mag24
+
+# Siti di bufale a sfondo politico e razziale
+
+0.0.0.0 http://www.sostenitori.info/   # Sostenitori delle Forze dell&#8217;Ordine
+0.0.0.0 http://devinformarti.blogspot.it/   # Devinformarti
+0.0.0.0 http://www.direttanews24.com/   # DirettaNews2</a><a href="http://www.direttanews24.com/   # 4
+0.0.0.0 http://www.fascinazione.info/   # FascinAzione
+0.0.0.0 http://ilbazarinformazione.blogspot.it/   # Il Bazaar Informazione
+0.0.0.0 https://www.tg24-ore.com   # Notizie 24 Ore
+0.0.0.0 https://sadefenza.blogspot.com   # Sa Defenza
+
+# Siti clickbait
+
+0.0.0.0 http://www.dionidream.com   # Dionidream
+0.0.0.0 http://www.essere-informati.it/   # Essere Informati
+0.0.0.0 http://www.tgnewsitalia.it/wp/   # TGNewsItalia
+0.0.0.0 http://voxnews.info/   # Voxnews
+0.0.0.0 http://www.nocensura.com/   # NoCensura
+0.0.0.0 http://tuttiicriminidegliimmigrati.com/   # Tuttiicriminidegliimmigrati
+0.0.0.0 http://www.vnews24.it/   # VNews24
+0.0.0.0 http://www.tgnewsitalia.it/wp/   # TGNewsItalia
+0.0.0.0 http://www.direttanews.it/   # DirettaNews
+
+0.0.0.0 http://www.direttanews24.com/   # DirettaNews24
+0.0.0.0 http://informatitalia.blogspot.it/   # Informati, Italia
+0.0.0.0 http://www.internapoli.it   # InterNapoli
+0.0.0.0 http://www.jedanews.it/blog/   # Jeda News
+0.0.0.0 http://newscronaca.it/   # News Cronaca
+0.0.0.0 http://www.notiziespericolate.com/   # Notizie Spericolate
+0.0.0.0 http://www.perdavvero.com/   # Per Davvero
+0.0.0.0 http://socialbuzz.it/   # SocialBuzz
+0.0.0.0 http://tg5stelle.it/   # TG5Stelle
+0.0.0.0 http://thuglifevideos.com   # Thug Life Videos
+0.0.0.0 http://direttanfo.blogspot.it/   # DirettaNfo
+0.0.0.0 https://www.tg24-ore.com   # TG24-ore
+0.0.0.0 https://viaggialowcost.altervista.org   # Viaggia Low Cost
+0.0.0.0 https://sadefenza.blogspot.com   # Sa Defenza
+0.0.0.0 https://www.maurizioblondet.it   # Maurizio Blondet
+0.0.0.0 https://informaresenzacensure.blogspot.com   # Informare Senza Censure
+0.0.0.0 http://www.byoblu.com   # ByoBlu
+0.0.0.0 https://www.mag24.es   # Mag24
+0.0.0.0 https://www.worldnotix.net   # WorldNotix
+
+# Pagine social clickbait
+
+
+0.0.0.0 https://www.facebook.com/italiaagliitaliani1/?__cft__[0]=AZXnPO5ffX6kDpN6Ejp0Gw96bWLvyTHe0PDpLaPZJFvSJE_QxR_KWA4klYerjWKG-Mk8k2fbz-sy5sB3x38n0fzWx2ITLhSaAX5OJQgB_ZmyvcFCaZOqxyTx3_TmffEd9Qw5q_lhCKsc9_muhZznACw7vhi8z6FrSWiZYNUyL83CnoF6b8EflSD6osq7vDbmH7nzkpofRtcUbfMsISVMH4mLuDCe0EtuF8xr0zlwHfg2NQ&amp;__tn__=-UC*F   # L&#8217;Italia agli italiani
+0.0.0.0 https://www.facebook.com/enjoymimanchi   # Mi Manchi
+
+# I siti e le pagine social di complottisti e bufalari Nuovo Ordine Mondiale, Scie chimiche, alieni, 11 settembre; chi più ne ha più ne metta.
+
+0.0.0.0 http://sulatestagiannilannes.blogspot.it/   # Su la testa – Gianni Lannes
+0.0.0.0 http://saltoquantico.org/   # Salto Quantico
+0.0.0.0 https://scenarieconomici.it/   # Scenari economici
+0.0.0.0 http://www.tmcrew.org/   # Tactical Media Crew
+0.0.0.0 http://www.tanker-enemy.com/   # Tanker Enemy
+0.0.0.0 http://www.tankerenemy.com/   # Tanker Enemy Blog
+0.0.0.0 http://www.jedanews.it/blog/   # Jeda News
+0.0.0.0 http://www.segnidalcielo.it/   # Segni dal cielo
+0.0.0.0 http://www.nocensura.com/   # NoCensura
+0.0.0.0 https://voxnews.info/   # Voxnews
+0.0.0.0 http://sapereeundovere.com/   # Sapere è un dovere
+0.0.0.0 http://www.informarexresistere.fr/   # Informare X Resistere
+0.0.0.0 http://www.luogocomune.net/LC/   # Luogocomune
+0.0.0.0 https://pianetablunews.wordpress.com/   # Pianeta Blu News
+0.0.0.0 http://www.disinformazione.it   # Disinformazione
+0.0.0.0 http://www.centrometeoitaliano.it/   # Centro Meteo Italiano
+0.0.0.0 http://informatitalia.blogspot.it/   # Informati, Italia
+0.0.0.0 http://www.notiziespericolate.com/   # Notizie Spericolate
+0.0.0.0 http://www.signoraggio.it/   # Signoraggio
+0.0.0.0 http://albainternazionale.blogspot.it/   # Vincenzo Ferraro Blog
+0.0.0.0 https://www.facebook.com/oggi24ore   # Oggi 24 Ore
+0.0.0.0 https://sadefenza.blogspot.com   # Sa Defenza
+0.0.0.0 https://www.maurizioblondet.it   # Maurizio Blondet
+0.0.0.0 https://informaresenzacensure.blogspot.com   # Informare Senza Censure
